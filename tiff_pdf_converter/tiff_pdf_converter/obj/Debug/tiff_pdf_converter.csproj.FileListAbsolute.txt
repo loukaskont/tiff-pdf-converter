@@ -1,0 +1,11 @@
+c:\users\kloukas\documents\visual studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\bin\Debug\tiff_pdf_converter.exe.config
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\bin\Debug\tiff_pdf_converter.exe
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\bin\Debug\tiff_pdf_converter.pdb
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\tiff_pdf_converter.Form1.resources
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\tiff_pdf_converter.Properties.Resources.resources
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\tiff_pdf_converter.csproj.GenerateResource.Cache
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\tiff_pdf_converter.exe
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\tiff_pdf_converter.pdb
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\tiff_pdf_converter.csproj.ResolveComReference.cache
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\Interop.OLEDBError.dll
+C:\Users\kloukas\Documents\Visual Studio 2013\Projects\tiff_pdf_converter\tiff_pdf_converter\obj\Debug\tiff_pdf_converter.csprojResolveAssemblyReference.cache
